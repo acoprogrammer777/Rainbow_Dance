@@ -1,4 +1,5 @@
 sleep left.
 sleep right.
 jump up and down
+twirl on your hands.
 do the rainbow dance
