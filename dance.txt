@@ -1,0 +1,4 @@
+sleep left.
+sleep right.
+jump up and down
+do the rainbow dance
